@@ -1,0 +1,9 @@
+name: devroom-gems
+version: '@version@'
+main: io.github.badnotice.devroomgems.GemsPlugin
+api-version: 1.16
+authors: [ BADnotice#3951 ]
+depend:
+  - PlaceholderAPI
+commands:
+  gems:
