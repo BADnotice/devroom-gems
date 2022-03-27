@@ -1,4 +1,4 @@
-package io.github.badnotice.devroomgems.registy;
+package io.github.badnotice.devroomgems.registry;
 
 import io.github.badnotice.devroomgems.data.Reward;
 import org.bukkit.Material;

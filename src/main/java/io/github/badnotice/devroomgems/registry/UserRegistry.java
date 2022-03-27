@@ -1,4 +1,4 @@
-package io.github.badnotice.devroomgems.registy;
+package io.github.badnotice.devroomgems.registry;
 
 import io.github.badnotice.devroomgems.data.User;
 import io.github.badnotice.devroomgems.database.UserDatabase;

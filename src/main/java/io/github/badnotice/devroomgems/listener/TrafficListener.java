@@ -3,7 +3,7 @@ package io.github.badnotice.devroomgems.listener;
 import io.github.badnotice.devroomgems.GemsPlugin;
 import io.github.badnotice.devroomgems.data.User;
 import io.github.badnotice.devroomgems.database.UserDatabase;
-import io.github.badnotice.devroomgems.registy.UserRegistry;
+import io.github.badnotice.devroomgems.registry.UserRegistry;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

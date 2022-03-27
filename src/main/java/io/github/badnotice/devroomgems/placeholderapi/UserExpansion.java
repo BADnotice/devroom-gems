@@ -1,7 +1,7 @@
 package io.github.badnotice.devroomgems.placeholderapi;
 
 import io.github.badnotice.devroomgems.data.User;
-import io.github.badnotice.devroomgems.registy.UserRegistry;
+import io.github.badnotice.devroomgems.registry.UserRegistry;
 import lombok.RequiredArgsConstructor;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.entity.Player;

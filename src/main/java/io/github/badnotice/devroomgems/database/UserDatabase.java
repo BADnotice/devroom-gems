@@ -4,7 +4,7 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
 import io.github.badnotice.devroomgems.adapter.RepositoryAdapter;
 import io.github.badnotice.devroomgems.data.User;
-import io.github.badnotice.devroomgems.registy.UserRegistry;
+import io.github.badnotice.devroomgems.registry.UserRegistry;
 import lombok.Getter;
 import org.bson.Document;
 

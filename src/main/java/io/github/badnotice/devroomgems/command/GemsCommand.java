@@ -2,7 +2,7 @@ package io.github.badnotice.devroomgems.command;
 
 import io.github.badnotice.devroomgems.GemsPlugin;
 import io.github.badnotice.devroomgems.data.User;
-import io.github.badnotice.devroomgems.registy.UserRegistry;
+import io.github.badnotice.devroomgems.registry.UserRegistry;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
